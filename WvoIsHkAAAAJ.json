@@ -1,0 +1,283 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "coauthors",
+    "publications",
+    "public_access"
+  ],
+  "scholar_id": "WvoIsHkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Zhi Lu",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WvoIsHkAAAAJ&citpid=4",
+  "affiliation": "University of Electronic Science and Technology of China",
+  "organization": 9610860646987207346,
+  "interests": [
+    "Computer Vision",
+    "Machine Learning",
+    "Recommendation",
+    "Wireless Sensing"
+  ],
+  "email_domain": "@std.uestc.edu.cn",
+  "citedby": 51,
+  "citedby5y": 51,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2020": 5,
+    "2021": 20,
+    "2022": 26
+  },
+  "coauthors": [
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "4y0QncgAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Bing Zeng",
+      "affiliation": "University of Electronic Science and Technology of China"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "MVOCn1AAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Yan Chen",
+      "affiliation": "Professor at University of Science and Technology of China"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "idrU8wYAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Cong Yu",
+      "affiliation": "University of Electronic Science and Technology of China"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "1t-Lr8gAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Ruixu Geng",
+      "affiliation": "UESTC"
+    },
+    {
+      "container_type": "Author",
+      "filled": [],
+      "scholar_id": "xBpvMRQAAAAJ",
+      "source": "CO_AUTHORS_LIST",
+      "name": "Dongheng Zhang",
+      "affiliation": "University of Science and Technology of China"
+    }
+  ],
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Learning Binary Code for Personalized Fashion Recommendation",
+        "pub_year": 2019,
+        "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2019",
+        "author": "Zhi Lu and Yang Hu and Yunchao Jiang and Yan Chen and Bing Zeng",
+        "conference": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pages": "10562-10570",
+        "abstract": "With the rapid growth of fashion-focused social networks and online shopping, intelligent fashion recommendation is now in great needs. Recommending fashion outfits, each of which is composed of multiple interacted clothing and accessories, is relatively new to the field. The problem becomes even more interesting and challenging when considering users' personalized fashion style. Another challenge in a large-scale fashion outfit recommendation system is the efficiency issue of item/outfit search and storage. In this paper, we propose to learn binary code for efficient personalized fashion outfits recommendation. Our system consists of three components, a feature network for content extraction, a set of type-dependent hashing modules to learn binary codes, and a matching block that conducts pairwise matching. The whole framework is trained in an end-to-end manner. We collect outfit data together with user label information from a fashion-focused social website for the personalized recommendation task. Extensive experiments on our datasets show that the proposed framework outperforms the state-of-the-art methods significantly even with a simple backbone."
+      },
+      "filled": true,
+      "author_pub_id": "WvoIsHkAAAAJ:4DMP91E08xMC",
+      "num_citations": 36,
+      "citedby_url": "/scholar?hl=en&num=20&cites=14896230262758038264",
+      "cites_id": [
+        "14896230262758038264"
+      ],
+      "public_access": true,
+      "pub_url": "http://openaccess.thecvf.com/content_CVPR_2019/html/Lu_Learning_Binary_Code_for_Personalized_Fashion_Recommendation_CVPR_2019_paper.html",
+      "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:-NodGIAKus4J:scholar.google.com/",
+      "cites_per_year": {
+        "2020": 5,
+        "2021": 18,
+        "2022": 13
+      },
+      "mandates": [
+        {
+          "agency": "National Natural Science Foundation of China",
+          "url_policy": "http://ir.nsfc.gov.cn/statement",
+          "url_policy_cached": "/mandates/nsfc_cn-2021-02-13-cn.pdf",
+          "effective_date": "2014/5",
+          "embargo": "12 months",
+          "acknowledgement": " \u2026National Natural Science Foundation of China (61602090) \u2026"
+        }
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Personalized Outfit Recommendation With Learnable Anchors",
+        "pub_year": 2021,
+        "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2021",
+        "author": "Zhi Lu and Yang Hu and Yan Chen and Bing Zeng",
+        "conference": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "pages": "12722-12731",
+        "abstract": "The multimedia community has recently seen a tremendous surge of interest in the fashion recommendation problem. A lot of efforts have been made to model the compatibility between fashion items. Some have also studied users' personal preferences for the outfits. There is, however, another difficulty in the task that hasn't been dealt with carefully by previous work. Users that are new to the system usually only have several (less than 5) outfits available for learning. With such a limited number of training examples, it is challenging to model the user's preferences reliably. In this work, we propose a new solution for personalized outfit recommendation that is capable of handling this case. We use a stacked self-attention mechanism to model the high-order interactions among the items. We then embed the items in an outfit into a single compact representation within the outfit space. To accommodate the variety of users' preferences, we characterize each user with a set of anchors, ie a group of learnable latent vectors in the outfit space that are the representatives of the outfits the user likes. We also learn a set of general anchors to model the general preference shared by all users. Based on this representation of the outfits and the users, we propose a simple but effective strategy for the new user profiling tasks. Extensive experiments on large scale real-world datasets demonstrate the performance of our proposed method."
+      },
+      "filled": true,
+      "author_pub_id": "WvoIsHkAAAAJ:D03iK_w7-QYC",
+      "num_citations": 12,
+      "citedby_url": "/scholar?hl=en&num=20&cites=1358642853815959651,5695808083119733339",
+      "cites_id": [
+        "1358642853815959651",
+        "5695808083119733339"
+      ],
+      "public_access": true,
+      "pub_url": "http://openaccess.thecvf.com/content/CVPR2021/html/Lu_Personalized_Outfit_Recommendation_With_Learnable_Anchors_CVPR_2021_paper.html",
+      "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:W3omH0aTC08J:scholar.google.com/",
+      "cites_per_year": {
+        "2021": 2,
+        "2022": 10
+      },
+      "mandates": [
+        {
+          "agency": "National Natural Science Foundation of China",
+          "url_policy": "http://ir.nsfc.gov.cn/statement",
+          "url_policy_cached": "/mandates/nsfc_cn-2021-02-13-cn.pdf",
+          "effective_date": "2014/5",
+          "embargo": "12 months",
+          "acknowledgement": " \u2026National Natural Science Foundation of China (61602090) \u2026"
+        }
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Outlier Item Detection in Fashion Outfit",
+        "pub_year": 2022,
+        "citation": "2022 the 6th International Conference on Innovation in Artificial \u2026, 2022",
+        "author": "Zhi Lu and Yang Hu and Yan Chen and Bing Zeng",
+        "pages": "166-171",
+        "abstract": "In this paper, we introduce the outlier item detection task, which is related to the compatibility prediction. Although, with the ability of measuring the compatibility, we are able to identify items that do not match the overall style of a given outfit, the outlier item detection task has not been well studied before. Most existing methods on compatibility prediction focus on improving the recommendation accuracy by utilizing the underlying high order relationships among items and have achieved promising results. Since these methods are not designed to address the above problem, the performance can be relatively poor. In this paper, we introduce the outlier item detection task and propose an attention-based encoder to learn a permutation equivariant transformation for items. The encoder is independent of the size of the items. An MLP decoder is deployed to detect the outlier item. We conduct experiments on different \u2026"
+      },
+      "filled": true,
+      "author_pub_id": "WvoIsHkAAAAJ:CHSYGLWDkRkC",
+      "num_citations": 1,
+      "citedby_url": "/scholar?hl=en&num=20&cites=10489653235152825922",
+      "cites_id": [
+        "10489653235152825922"
+      ],
+      "pub_url": "https://dl.acm.org/doi/abs/10.1145/3529466.3529472",
+      "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Qq5Pcgq8kpEJ:scholar.google.com/",
+      "cites_per_year": {
+        "2022": 1
+      }
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Passive Non-Line-of-Sight Imaging Using Optimal Transport",
+        "pub_year": 2021,
+        "citation": "IEEE Transactions on Image Processing 31, 110-124, 2021",
+        "author": "Ruixu Geng and Yang Hu and Zhi Lu and Cong Yu and Houqiang Li and Hengyu Zhang and Yan Chen",
+        "journal": "IEEE Transactions on Image Processing",
+        "volume": "31",
+        "pages": "110-124",
+        "publisher": "IEEE",
+        "abstract": "Passive non-line-of-sight (NLOS) imaging has drawn great attention in recent years. However, all existing methods are in common limited to simple hidden scenes, low-quality reconstruction, and small-scale datasets. In this paper, we propose NLOS-OT, a novel passive NLOS imaging framework based on manifold embedding and optimal transport, to reconstruct high-quality complicated hidden scenes. NLOS-OT converts the high-dimensional reconstruction task to a low-dimensional manifold mapping through optimal transport, alleviating the ill-posedness in passive NLOS imaging. Besides, we create the first large-scale passive NLOS imaging dataset, NLOS-Passive, which includes 50 groups and more than 3,200,000 images. NLOS-Passive collects target images with different distributions and their corresponding observed projections under various conditions, which can be used to evaluate the performance of \u2026"
+      },
+      "filled": true,
+      "author_pub_id": "WvoIsHkAAAAJ:f2IySw72cVMC",
+      "num_citations": 1,
+      "citedby_url": "/scholar?hl=en&num=20&cites=16318266015340860735",
+      "cites_id": [
+        "16318266015340860735"
+      ],
+      "pub_url": "https://ieeexplore.ieee.org/abstract/document/9623377/",
+      "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:P5W4qnsgduIJ:scholar.google.com/",
+      "cites_per_year": {
+        "2022": 1
+      }
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sampling for Approximate Maximum Search in Factorized Tensor",
+        "pub_year": 2017,
+        "citation": "IJCAI, 2400-2406, 2017",
+        "author": "Zhi Lu and Yang Hu and Bing Zeng",
+        "conference": "IJCAI",
+        "pages": "2400-2406",
+        "abstract": "Factorization models have been extensively used for recovering the missing entries of a matrix or tensor. However, directly computing all of the entries using the learned factorization models is prohibitive when the size of the matrix/tensor is large. On the other hand, in many applications, such as collaborative filtering, we are only interested in a few entries that are the largest among them. In this work, we propose a sampling-based approach for finding the top entries of a tensor which is decomposed by the CANDECOMP/PARAFAC model. We develop an algorithm to sample the entries with probabilities proportional to their values. We further extend it to make the sampling proportional to the k-th power of the values, amplifying the focus on the top ones. We provide theoretical analysis of the sampling algorithm and evaluate its performance on several real-world data sets. Experimental results indicate that the proposed approach is orders of magnitude faster than exhaustive computing. When applied to the special case of searching in a matrix, it also requires fewer samples than the other state-of-the-art method."
+      },
+      "filled": true,
+      "author_pub_id": "WvoIsHkAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 1,
+      "citedby_url": "/scholar?hl=en&num=20&cites=12183595944655239199",
+      "cites_id": [
+        "12183595944655239199"
+      ],
+      "public_access": true,
+      "pub_url": "https://www.ijcai.org/Proceedings/2017/0334.pdf",
+      "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:H7gQ0PXTFKkJ:scholar.google.com/",
+      "cites_per_year": {
+        "2022": 1
+      },
+      "mandates": [
+        {
+          "agency": "National Natural Science Foundation of China",
+          "url_policy": "http://ir.nsfc.gov.cn/statement",
+          "url_policy_cached": "/mandates/nsfc_cn-2021-02-13-cn.pdf",
+          "effective_date": "2014/5",
+          "embargo": "12 months",
+          "acknowledgement": " \u2026National Natural Science Foundation of China (61602090) \u2026"
+        }
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Personalized Fashion Recommendation with Discrete Content-based Tensor Factorization",
+        "pub_year": 2022,
+        "citation": "IEEE Transactions on Multimedia, 2022",
+        "author": "Zhi Lu and Yang Hu and Cong Yu and Yunchao Jiang and Yan Chen and Bing Zeng",
+        "journal": "IEEE Transactions on Multimedia",
+        "publisher": "IEEE",
+        "abstract": "Fashion outfit recommendation has attracted lots of attention recently. The problem becomes even more interesting and challenging when considering users\u2019 personalized fashion preferences. Although existing works have successfully improved the recommendation accuracy, the efficiency issue of computation and storage is still under-investigated and often ignored. In this paper, we propose a discrete content-based tensor factorization model that maps items and user to binary codes for efficient fashion recommendation. We introduce a probabilistic perspective for learning to hash, where the binary codes are sampled from a set of underlying Bernoulli variables. To demonstrate the effectiveness of our model, we collect a large-scale outfit dataset together with user label information from a fashion-focused social website. Extensive experiments on our dataset show that the proposed model outperforms other state-of \u2026"
+      },
+      "filled": true,
+      "author_pub_id": "WvoIsHkAAAAJ:P5F9QuxV20EC",
+      "num_citations": 0,
+      "pub_url": "https://ieeexplore.ieee.org/abstract/document/9808340/",
+      "cites_per_year": {}
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RFGAN: RF-Based Human Synthesis",
+        "pub_year": 2022,
+        "citation": "IEEE Transactions on Multimedia, 2022",
+        "author": "Cong Yu and Zhi Wu and Dongheng Zhang and Zhi Lu and Yang Hu and Yan Chen",
+        "journal": "IEEE Transactions on Multimedia",
+        "publisher": "IEEE",
+        "abstract": "This paper demonstrates human synthesis based on the Radio Frequency (RF) signals, which leverages the fact that RF signals can record human movements with the signal reflections off the human body. Different from existing RF sensing works that can only perceive humans roughly, this paper aims to generate fine-grained optical human images by introducing a novel cross-modal RFGAN model. Specifically, we first build a radio system equipped with horizontal and vertical antenna arrays to transceive RF signals. Since the reflected RF signals are processed as obscure signal projection heatmaps on the horizontal and vertical planes, we design a RF-Extractor with RNN in RFGAN for RF heatmap encoding and combining to obtain the human activity information. Then we inject the information extracted by the RF-Extractor and RNN as the condition into GAN using the proposed RF-based adaptive \u2026"
+      },
+      "filled": true,
+      "author_pub_id": "WvoIsHkAAAAJ:bFI3QPDXJZMC",
+      "num_citations": 0,
+      "pub_url": "https://ieeexplore.ieee.org/abstract/document/9720242/",
+      "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:LyX5W5zTsDoJ:scholar.google.com/",
+      "cites_per_year": {}
+    }
+  ],
+  "public_access": {
+    "available": 3,
+    "not_available": 0
+  }
+}
