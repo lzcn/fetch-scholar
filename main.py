@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Set up a ProxyGenerator object to use free proxies
 # This needs to be done only once per session
-
+fill_article = os.environ.get("FILL_ARTICLE", False)
 author_id = os.environ.get("AUTHOR_ID", None)
 if author_id is None:
     logging.error("Author ID not set")
@@ -20,9 +20,9 @@ author = scholarly.search_author_id(author_id)
 # fill author information
 author = scholarly.fill(author)
 # fill author publications
-logging.info("Filling author publications")
-for publication in author["publications"]:
-    scholarly.fill(publication)
+# logging.info("Filling author publications")
+# for publication in author["publications"]:
+#     scholarly.fill(publication)
 
 
 # %%
@@ -38,6 +38,9 @@ def update_one_article(new_article, old_article):
             new_article["num_citations"] - old_article["num_citations"],
             new_article["bib"]["title"],
         )
+    if not old_article["filled"] and fill_article:
+        logging.info("Filling article: %s", new_article["bib"]["title"])
+        new_article = scholarly.fill(new_article)
     for key, value in new_article.items():
         old_article[key] = value
     return old_article
@@ -94,23 +97,44 @@ pg.ScraperAPI(proxy_api_key)
 # pg.FreeProxies()
 # pg.Tor_Internal(tor_cmd = "tor")
 scholarly.use_proxy(pg)
-for publication in author["publications"]:
+num_publications = len(author["publications"])
+for article_count, publication in enumerate(author["publications"]):
     if "citedby_publications" not in publication:
         publication["citedby_publications"] = []
     if len(publication["citedby_publications"]) == publication["num_citations"]:
-        logging.info("No new citations for paper: %s", publication["bib"]["title"])
+        logging.info(
+            "[%d]/[%d] No new citations for paper: %s", article_count + 1, num_publications, publication["bib"]["title"]
+        )
         continue
     logging.info(
         "Adding %d new citations to paper %s",
         publication["num_citations"] - len(publication["citedby_publications"]),
         publication["bib"]["title"],
     )
-    # TODO: incrementally update citations
     citedby_publications = []
+    cite_count = 1
+    num_new_citations = publication["num_citations"] - len(publication["citedby_publications"])
     for citation in scholarly.citedby(publication):
-        citedby_publications.append(citation)
-        logging.info("Added citation: %s", citation["bib"]["title"])
-    publication["citedby_publications"] = citedby_publications
+        # incrementally update citations
+        # TODO: is this key unique?
+        citekey = citation["bib"]["title"].lower() + citation["bib"]["year"]
+        founded = False
+        for publication in author["publications"]:
+            if publication["bib"]["title"].lower() + publication["bib"]["year"] == citekey:
+                founded = True
+                break
+        if not founded:
+            citedby_publications.append(citation)
+            logging.info(
+                "Added citation for [%d]-th/[%d] article: [%d]/[%d] - %s",
+                citation["bib"]["title"],
+                article_count + 1,
+                num_publications,
+                cite_count,
+                num_new_citations,
+            )
+            cite_count += 1
+        if num_new_citations == len(citedby_publications):
+            break
+    publication["citedby_publications"] = citedby_publications + publication["citedby_publications"]
     save_data(filename, author)
-
-# %%
