@@ -111,6 +111,1068 @@
           "embargo": "12 months",
           "acknowledgement": " \u2026National Natural Science Foundation of China (61602090) \u2026"
         }
+      ],
+      "citedby_publications": [
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Hierarchical fashion graph network for personalized outfit recommendation",
+            "author": [
+              "X Li",
+              "X Wang",
+              "X He",
+              "L Chen",
+              "J Xiao"
+            ],
+            "pub_year": "2020",
+            "venue": "Proceedings of the 43rd \u2026",
+            "abstract": "Fashion outfit recommendation has attracted increasing attentions from online shopping services and fashion communities. Distinct from other scenarios (eg, social networking or"
+          },
+          "filled": false,
+          "gsrank": 1,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3397271.3401080",
+          "author_id": [
+            "",
+            "HdhaQB0AAAAJ",
+            "X45Go24AAAAJ",
+            "jzvXnkcAAAAJ",
+            "fqOwFhQAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:2shPW_3PXpsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=2shPW_3PXpsJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 49,
+          "citedby_url": "/scholar?cites=11195614410755262682&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:2shPW_3PXpsJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2005.12566"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Fashion captioning: Towards generating accurate descriptions with semantic rewards",
+            "author": [
+              "X Yang",
+              "H Zhang",
+              "D Jin",
+              "Y Liu",
+              "CH Wu",
+              "J Tan"
+            ],
+            "pub_year": "2020",
+            "venue": "\u2026 on Computer Vision",
+            "abstract": "Generating accurate descriptions for online fashion items is important not only for enhancing customers' shopping experiences, but also for the increase of online sales. Besides the"
+          },
+          "filled": false,
+          "gsrank": 2,
+          "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-58601-0_1",
+          "author_id": [
+            "pAdxTfgAAAAJ",
+            "",
+            "x5QTK9YAAAAJ",
+            "dDT1fjEAAAAJ",
+            "4dHmhzMAAAAJ",
+            "1Gywy80AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:8XELyD4WJOIJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=8XELyD4WJOIJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 19,
+          "citedby_url": "/scholar?cites=16295173810633273841&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:8XELyD4WJOIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2008.02693"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Personalized outfit recommendation with learnable anchors",
+            "author": [
+              "Z Lu",
+              "Y Hu",
+              "Y Chen",
+              "B Zeng"
+            ],
+            "pub_year": "2021",
+            "venue": "Proceedings of the IEEE/CVF \u2026",
+            "abstract": "The multimedia community has recently seen a tremendous surge of interest in the fashion recommendation problem. A lot of efforts have been made to model the compatibility"
+          },
+          "filled": false,
+          "gsrank": 3,
+          "pub_url": "http://openaccess.thecvf.com/content/CVPR2021/html/Lu_Personalized_Outfit_Recommendation_With_Learnable_Anchors_CVPR_2021_paper.html",
+          "author_id": [
+            "WvoIsHkAAAAJ",
+            "",
+            "MVOCn1AAAAAJ",
+            "4y0QncgAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:Y8BSJnre2hIJ:scholar.google.com/&output=cite&scirp=2&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=Y8BSJnre2hIJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 12,
+          "citedby_url": "/scholar?cites=1358642853815959651&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:Y8BSJnre2hIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Personalized_Outfit_Recommendation_With_Learnable_Anchors_CVPR_2021_paper.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Learning diverse fashion collocation by neural graph filtering",
+            "author": [
+              "X Liu",
+              "Y Sun",
+              "Z Liu",
+              "D Lin"
+            ],
+            "pub_year": "2020",
+            "venue": "IEEE Transactions on Multimedia",
+            "abstract": "Fashion recommendation systems are highly desired by customers to find visually-collocated fashion items, such as clothes, shoes, bags, etc. While existing methods"
+          },
+          "filled": false,
+          "gsrank": 4,
+          "pub_url": "https://ieeexplore.ieee.org/abstract/document/9172047/",
+          "author_id": [
+            "ksxzhMwAAAAJ",
+            "pE_8JZ0AAAAJ",
+            "lc45xlcAAAAJ",
+            "GMzzRRUAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:MXCXyYtAoswJ:scholar.google.com/&output=cite&scirp=3&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=MXCXyYtAoswJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 12,
+          "citedby_url": "/scholar?cites=14745419099091202097&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:MXCXyYtAoswJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2003.04888"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Learning tuple compatibility for conditional outfit recommendation",
+            "author": [
+              "X Yang",
+              "D Xie",
+              "X Wang",
+              "J Yuan",
+              "W Ding"
+            ],
+            "pub_year": "2020",
+            "venue": "Proceedings of the 28th \u2026",
+            "abstract": "Outfit recommendation requires the answers of some challenging outfit compatibility questions such as' Which pair of boots and school bag go well with my jeans and sweater?'"
+          },
+          "filled": false,
+          "gsrank": 5,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3394171.3413936",
+          "author_id": [
+            "pAdxTfgAAAAJ",
+            "",
+            "",
+            "-eG_3GgAAAAJ",
+            "RQRO-NEAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:vQij9an_B0sJ:scholar.google.com/&output=cite&scirp=4&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=vQij9an_B0sJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 13,
+          "citedby_url": "/scholar?cites=5406570983117228221&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:vQij9an_B0sJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2008.08189"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "-FKG: Attentive Attribute-Aware Fashion Knowledge Graph for Outfit Preference Prediction",
+            "author": [
+              "H Zhan",
+              "J Lin",
+              "KE Ak",
+              "B Shi",
+              "LY Duan"
+            ],
+            "pub_year": "2021",
+            "venue": "IEEE Transactions on \u2026",
+            "abstract": "With the booming development of the online fashion industry, effective personalized recommender systems have become indispensable for the convenience they brought to the"
+          },
+          "filled": false,
+          "gsrank": 6,
+          "pub_url": "https://ieeexplore.ieee.org/abstract/document/9354945/",
+          "author_id": [
+            "0lRmEoYAAAAJ",
+            "",
+            "1SuLOuAAAAAJ",
+            "K1LjZxcAAAAJ",
+            "hsXZOgIAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:2xxsTWeQcK0J:scholar.google.com/&output=cite&scirp=5&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=2xxsTWeQcK0J&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 11,
+          "citedby_url": "/scholar?cites=12497647739308088539&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:2xxsTWeQcK0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "http://ci.idm.pku.edu.cn/Zhan_TMM21.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Probability ordinal-preserving semantic hashing for large-scale image retrieval",
+            "author": [
+              "Z Zhang",
+              "X Zhu",
+              "G Lu",
+              "Y Zhang"
+            ],
+            "pub_year": "2021",
+            "venue": "ACM Transactions on Knowledge \u2026",
+            "abstract": "Semantic hashing enables computation and memory-efficient image retrieval through learning similarity-preserving binary representations. Most existing hashing methods mainly"
+          },
+          "filled": false,
+          "gsrank": 7,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3442204",
+          "author_id": [
+            "tpVOb2EAAAAJ",
+            "-bk1CrcAAAAJ",
+            "fhwB7UwAAAAJ",
+            "A5lgIN8AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:10ONb3mgLsYJ:scholar.google.com/&output=cite&scirp=6&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=10ONb3mgLsYJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 7,
+          "citedby_url": "/scholar?cites=14280527911861437399&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:10ONb3mgLsYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Semi-supervised visual representation learning for fashion compatibility",
+            "author": [
+              "A Revanur",
+              "V Kumar",
+              "D Sharma"
+            ],
+            "pub_year": "2021",
+            "venue": "Fifteenth ACM Conference on \u2026",
+            "abstract": "We consider the problem of complementary fashion prediction. Existing approaches focus on learning an embedding space where fashion items from different categories that are"
+          },
+          "filled": false,
+          "gsrank": 8,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3460231.3474233",
+          "author_id": [
+            "rHX08TgAAAAJ",
+            "WVQGuyQAAAAJ",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:ynVy4WKYEpwJ:scholar.google.com/&output=cite&scirp=7&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=ynVy4WKYEpwJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 7,
+          "citedby_url": "/scholar?cites=11246218769954141642&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:ynVy4WKYEpwJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2109.08052"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "A text GAN framework for creative essay recommendation",
+            "author": [
+              "G Liang",
+              "BW On",
+              "D Jeong",
+              "AA Heidari",
+              "HC Kim"
+            ],
+            "pub_year": "2021",
+            "venue": "Knowledge-Based \u2026",
+            "abstract": "Automated essay scoring is one of the most exciting tasks in natural language processing, reducing massive workloads and speeding up the learning process and its effectiveness"
+          },
+          "filled": false,
+          "gsrank": 9,
+          "pub_url": "https://www.sciencedirect.com/science/article/pii/S0950705121007632",
+          "author_id": [
+            "44kHlEoAAAAJ",
+            "19kscYoAAAAJ",
+            "",
+            "RhDaNTUAAAAJ",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:Anm5l62umMYJ:scholar.google.com/&output=cite&scirp=8&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=Anm5l62umMYJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 7,
+          "citedby_url": "/scholar?cites=14310379876567841026&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:Anm5l62umMYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://www.researchgate.net/profile/Ali-Asghar-Heidari/publication/354649811_A_text_GAN_framework_for_creative_essay_recommendation/links/6149ac0d3c6cb3106980063f/A-text-GAN-framework-for-creative-essay-recommendation.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Fashion recommendation systems, models and methods: A review",
+            "author": [
+              "S Chakraborty",
+              "MS Hoque",
+              "N Rahman Jeem"
+            ],
+            "pub_year": "2021",
+            "venue": "Informatics",
+            "abstract": "In recent years, the textile and fashion industries have witnessed an enormous amount of growth in fast fashion. On e-commerce platforms, where numerous choices are available, an"
+          },
+          "filled": false,
+          "gsrank": 10,
+          "pub_url": "https://www.mdpi.com/1203788",
+          "author_id": [
+            "IczSAugAAAAJ",
+            "ODAR890AAAAJ",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:COlfp-pdZpUJ:scholar.google.com/&output=cite&scirp=9&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=COlfp-pdZpUJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 4,
+          "citedby_url": "/scholar?cites=10765395221687560456&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:COlfp-pdZpUJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://www.mdpi.com/2227-9709/8/3/49/pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Exploiting ontology recommendation using text categorization approach",
+            "author": [
+              "MA Sarwar",
+              "M Ahmed",
+              "A Habib",
+              "M Khalid",
+              "MA Ali"
+            ],
+            "pub_year": "2020",
+            "venue": "IEEE \u2026",
+            "abstract": "Semantic Web is considered as the backbone of web 3.0 and ontologies are an integral part of the Semantic Web. Though an increase of ontologies in different domains is reported due"
+          },
+          "filled": false,
+          "gsrank": 11,
+          "pub_url": "https://ieeexplore.ieee.org/abstract/document/9308899/",
+          "author_id": [
+            "RbtFgmIAAAAJ",
+            "krh3CE_-zkgC",
+            "",
+            "bQ1jAocAAAAJ",
+            "mjcmOPkAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:IaUc_jS0Z-wJ:scholar.google.com/&output=cite&scirp=10&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=IaUc_jS0Z-wJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 4,
+          "citedby_url": "/scholar?cites=17034782255246779681&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:IaUc_jS0Z-wJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://ieeexplore.ieee.org/iel7/6287639/9312710/09308899.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Smart fashion: a review of AI applications in the Fashion & Apparel Industry",
+            "author": [
+              "SO Mohammadi",
+              "A Kalhor"
+            ],
+            "pub_year": "2021",
+            "venue": "arXiv preprint arXiv:2111.00905",
+            "abstract": "The fashion industry is on the verge of an unprecedented change. The implementation of machine learning, computer vision, and artificial intelligence (AI) in fashion applications is"
+          },
+          "filled": false,
+          "gsrank": 12,
+          "pub_url": "https://arxiv.org/abs/2111.00905",
+          "author_id": [
+            "ztAx0aMAAAAJ",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:2G7f2QIzG8IJ:scholar.google.com/&output=cite&scirp=11&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=2G7f2QIzG8IJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 4,
+          "citedby_url": "/scholar?cites=13986829155067457240&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:2G7f2QIzG8IJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2111.00905"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Personalized compatibility metric learning",
+            "author": [
+              "M Taraviya",
+              "A Beniwal",
+              "YL Lin",
+              "L Davis"
+            ],
+            "pub_year": "2021",
+            "venue": "KDD Workshop",
+            "abstract": "Recommending sets of items that include both personalized and compatible items is crucial to personalized styling programs such as Amazon's Personal Shopper. There is both an"
+          },
+          "filled": false,
+          "gsrank": 13,
+          "pub_url": "https://irsworkshop.github.io/2021/publications/IRS2021_paper_23.pdf",
+          "author_id": [
+            "",
+            "DZIe1FkAAAAJ",
+            "",
+            "lc0ARagAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:uUJyFWSpk50J:scholar.google.com/&output=cite&scirp=12&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=uUJyFWSpk50J&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 2,
+          "citedby_url": "/scholar?cites=11354605332852785849&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:uUJyFWSpk50J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://irsworkshop.github.io/2021/publications/IRS2021_paper_23.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Complementary factorization towards outfit compatibility modeling",
+            "author": [
+              "T Su",
+              "X Song",
+              "N Zheng",
+              "W Guan",
+              "Y Li"
+            ],
+            "pub_year": "2021",
+            "venue": "Proceedings of the 29th \u2026",
+            "abstract": "Recently, outfit compatibility modeling, which aims to evaluate the compatibility of a given outfit that comprises a set of fashion items, has gained growing research attention. Although"
+          },
+          "filled": false,
+          "gsrank": 14,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3474085.3475537",
+          "author_id": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:hP3TV-dv4SYJ:scholar.google.com/&output=cite&scirp=13&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=hP3TV-dv4SYJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 5,
+          "citedby_url": "/scholar?cites=2801643482602798468&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:hP3TV-dv4SYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Plm: Partial label masking for imbalanced multi-label classification",
+            "author": [
+              "K Duarte",
+              "Y Rawat",
+              "M Shah"
+            ],
+            "pub_year": "2021",
+            "venue": "Proceedings of the IEEE/CVF \u2026",
+            "abstract": "Neural networks trained on real-world datasets with long-tailed label distributions are biased towards frequent classes and perform poorly on infrequent classes. The imbalance in the"
+          },
+          "filled": false,
+          "gsrank": 15,
+          "pub_url": "https://openaccess.thecvf.com/content/CVPR2021W/LLID/html/Duarte_PLM_Partial_Label_Masking_for_Imbalanced_Multi-Label_Classification_CVPRW_2021_paper.html",
+          "author_id": [
+            "PxD5DrYAAAAJ",
+            "D_JvEcwAAAAJ",
+            "p8gsO3gAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:BT6acxadetYJ:scholar.google.com/&output=cite&scirp=14&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=BT6acxadetYJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 3,
+          "citedby_url": "/scholar?cites=15454837791029607941&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:BT6acxadetYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Duarte_PLM_Partial_Label_Masking_for_Imbalanced_Multi-Label_Classification_CVPRW_2021_paper.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "A review of modern fashion recommender systems",
+            "author": [
+              "Y Deldjoo",
+              "F Nazary",
+              "A Ramisa",
+              "J Mcauley"
+            ],
+            "pub_year": "2022",
+            "venue": "arXiv preprint arXiv \u2026",
+            "abstract": "The textile and apparel industries have grown tremendously over the last years. Customers no longer have to visit many stores, stand in long queues, or try on garments in dressing"
+          },
+          "filled": false,
+          "gsrank": 16,
+          "pub_url": "https://arxiv.org/abs/2202.02757",
+          "author_id": [
+            "-C_x_hUAAAAJ",
+            "vlfSjVEAAAAJ",
+            "sE3j8joAAAAJ",
+            "icbo4M0AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:6fAzHEustR0J:scholar.google.com/&output=cite&scirp=15&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=6fAzHEustR0J&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 2,
+          "citedby_url": "/scholar?cites=2140806636480229609&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:6fAzHEustR0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2202.02757"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Disentangling Features for Fashion Recommendation",
+            "author": [
+              "L De Divitiis",
+              "F Becattini",
+              "C Baecchi"
+            ],
+            "pub_year": "2022",
+            "venue": "ACM Transactions on \u2026",
+            "abstract": "Online stores have become fundamental for the fashion industry, revolving around recommendation systems to suggest appropriate items to customers. Such"
+          },
+          "filled": false,
+          "gsrank": 17,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3531017",
+          "author_id": [
+            "ni23QZgAAAAJ",
+            "t0sXvkAAAAAJ",
+            "Q0cKT9cAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:Xd5bJCm5NsgJ:scholar.google.com/&output=cite&scirp=16&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=Xd5bJCm5NsgJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 2,
+          "citedby_url": "/scholar?cites=14426922042682760797&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:Xd5bJCm5NsgJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://www.academia.edu/download/86325486/3531017.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Pan: Personalized attention network for outfit recommendation",
+            "author": [
+              "H Zhan",
+              "J Lin"
+            ],
+            "pub_year": "2021",
+            "venue": "2021 IEEE International Conference on Image \u2026",
+            "abstract": "Recent years have witnessed the dramatic development of e-fashion industry, it becomes essential to build an intelligent fashion recommender system. Most of existing works on"
+          },
+          "filled": false,
+          "gsrank": 18,
+          "pub_url": "https://ieeexplore.ieee.org/abstract/document/9506344/",
+          "author_id": [
+            "0lRmEoYAAAAJ",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:Brptw0Q8VX8J:scholar.google.com/&output=cite&scirp=17&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=Brptw0Q8VX8J&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 2,
+          "citedby_url": "/scholar?cites=9175306081871444486&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:Brptw0Q8VX8J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Northumbria Research Link",
+            "author": [
+              "N Graham",
+              "SG Potts",
+              "KCR Baldock"
+            ],
+            "pub_year": "2021",
+            "venue": "NA",
+            "abstract": "Floral resources (nectar and pollen) provide food for insect pollinators but have declined in the countryside due to land use change. Given widespread pollinator loss, it is important that"
+          },
+          "filled": false,
+          "gsrank": 19,
+          "pub_url": "http://nrl.northumbria.ac.uk/id/eprint/45373/16/1365-2745.13598.pdf;",
+          "author_id": [
+            "",
+            "q_vbRxIAAAAJ",
+            "ntJPwpkAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:s1pjAVL6eVsJ:scholar.google.com/&output=cite&scirp=18&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=s1pjAVL6eVsJ&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:s1pjAVL6eVsJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "http://nrl.northumbria.ac.uk/id/eprint/45373/16/1365-2745.13598.pdf;"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Learning Similarity Preserving Binary Codes for Recommender Systems",
+            "author": [
+              "Y Shi",
+              "Y Chung"
+            ],
+            "pub_year": "2022",
+            "venue": "arXiv preprint arXiv:2204.08569",
+            "abstract": "Hashing-based Recommender Systems (RSs) are widely studied to provide scalable services. The existing methods for the systems combine three modules to achieve efficiency"
+          },
+          "filled": false,
+          "gsrank": 20,
+          "pub_url": "https://arxiv.org/abs/2204.08569",
+          "author_id": [
+            "Xnq5MgMAAAAJ",
+            "Vc0RfY0AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:ncy7A3yvgt8J:scholar.google.com/&output=cite&scirp=19&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=ncy7A3yvgt8J&ei=VQ3PYrfSCInGsQLQuYRY&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:ncy7A3yvgt8J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2204.08569"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Personalized Fashion Recommendation with Discrete Content-based Tensor Factorization",
+            "author": [
+              "Z Lu",
+              "Y Hu",
+              "C Yu",
+              "Y Jiang",
+              "Y Chen"
+            ],
+            "pub_year": "2022",
+            "venue": "IEEE Transactions on \u2026",
+            "abstract": "Fashion outfit recommendation has attracted lots of attention recently. The problem becomes even more interesting and challenging when considering users' personalized fashion"
+          },
+          "filled": false,
+          "gsrank": 21,
+          "pub_url": "https://ieeexplore.ieee.org/abstract/document/9808340/",
+          "author_id": [
+            "WvoIsHkAAAAJ",
+            "",
+            "idrU8wYAAAAJ",
+            "",
+            "MVOCn1AAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:sVrGFSFc1EoJ:scholar.google.com/&output=cite&scirp=20&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=sVrGFSFc1EoJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "UIGR: Unified Interactive Garment Retrieval",
+            "author": [
+              "X Han",
+              "S He",
+              "L Zhang",
+              "YZ Song"
+            ],
+            "pub_year": "2022",
+            "venue": "Proceedings of the \u2026",
+            "abstract": "Interactive garment retrieval (IGR) aims to retrieve a target garment image based on a reference garment image along with user feedback on what to change on the reference"
+          },
+          "filled": false,
+          "gsrank": 22,
+          "pub_url": "https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Han_UIGR_Unified_Interactive_Garment_Retrieval_CVPRW_2022_paper.html",
+          "author_id": [
+            "sRelAa4AAAAJ",
+            "",
+            "Hl5HymUAAAAJ",
+            "irZFP_AAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:TOMhGUFpyBYJ:scholar.google.com/&output=cite&scirp=21&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=TOMhGUFpyBYJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:TOMhGUFpyBYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Han_UIGR_Unified_Interactive_Garment_Retrieval_CVPRW_2022_paper.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Content-Aware Generative Model for Multi-Item Outfit Recommendation",
+            "author": [
+              "V Volokha",
+              "K Bochenina"
+            ],
+            "pub_year": "2022",
+            "venue": "NA",
+            "abstract": "Recently, deep learning-based recommender systems have received increasing attention of researchers and demonstrate excellent results at solving various tasks in various areas. One"
+          },
+          "filled": false,
+          "gsrank": 23,
+          "pub_url": "https://easychair.org/publications/preprint_download/z1km",
+          "author_id": [
+            "",
+            "5120K5QAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:LW5aNPHxif0J:scholar.google.com/&output=cite&scirp=22&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=LW5aNPHxif0J&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:LW5aNPHxif0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://easychair.org/publications/preprint_download/z1km"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Deep-based Self-refined Face-top Coordination",
+            "author": [
+              "H Li",
+              "X Mao",
+              "M Xu",
+              "X Jin"
+            ],
+            "pub_year": "2021",
+            "venue": "ACM Transactions on Multimedia Computing \u2026",
+            "abstract": "Face-top coordination, which exists in most clothes-fitting scenarios, is challenging due to varieties of attributes, implicit correlations, and tradeoffs between general preferences and"
+          },
+          "filled": false,
+          "gsrank": 24,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3446970",
+          "author_id": [
+            "",
+            "cIi0ZXYAAAAJ",
+            "",
+            "yryOvLwAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:alLyU8V7BQQJ:scholar.google.com/&output=cite&scirp=23&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=alLyU8V7BQQJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:alLyU8V7BQQJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "PSANet-subspace attention for personalized compatibility",
+            "author": [
+              "M Taraviya",
+              "A Beniwal",
+              "YL Lin"
+            ],
+            "pub_year": "2021",
+            "venue": "2021 IEEE International \u2026",
+            "abstract": "Recommending sets of items that include both personalized and compatible items is crucial to personalized styling programs such as Amazon's Personal Shopper. There is both an"
+          },
+          "filled": false,
+          "gsrank": 25,
+          "pub_url": "https://ieeexplore.ieee.org/abstract/document/9679042/",
+          "author_id": [
+            "",
+            "DZIe1FkAAAAJ",
+            "F6czwh8AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:rXWWXQU_iCAJ:scholar.google.com/&output=cite&scirp=24&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=rXWWXQU_iCAJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:rXWWXQU_iCAJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Outlier Item Detection in Fashion Outfit",
+            "author": [
+              "Z Lu",
+              "Y Hu",
+              "Y Chen",
+              "B Zeng"
+            ],
+            "pub_year": "2022",
+            "venue": "2022 the 6th International Conference on \u2026",
+            "abstract": "In this paper, we introduce the outlier item detection task, which is related to the compatibility prediction. Although, with the ability of measuring the compatibility, we are able to identify"
+          },
+          "filled": false,
+          "gsrank": 26,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3529466.3529472",
+          "author_id": [
+            "WvoIsHkAAAAJ",
+            "",
+            "",
+            "4y0QncgAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:Qq5Pcgq8kpEJ:scholar.google.com/&output=cite&scirp=25&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=Qq5Pcgq8kpEJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 1,
+          "citedby_url": "/scholar?cites=10489653235152825922&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:Qq5Pcgq8kpEJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/3529466.3529472"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Customer models for artificial intelligence-based decision support in fashion online retail supply chains",
+            "author": [
+              "AM Pereira",
+              "JAB Moura",
+              "EDB Costa",
+              "T Vieira"
+            ],
+            "pub_year": "2022",
+            "venue": "Decision Support \u2026",
+            "abstract": "Fashion is a global, multi-trillion dollar industry devoted to producing and selling clothing, footwear, and accessories to individuals or groups of people. Its sheer numbers, together"
+          },
+          "filled": false,
+          "gsrank": 27,
+          "pub_url": "https://www.sciencedirect.com/science/article/pii/S0167923622000665",
+          "author_id": [
+            "",
+            "",
+            "NX2ik0YAAAAJ",
+            "Qz6kX58AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:PDqNjOcDj0UJ:scholar.google.com/&output=cite&scirp=26&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=PDqNjOcDj0UJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:PDqNjOcDj0UJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Preference for Abstract Diagrams and Sentiments Applied in a Product Selection",
+            "author": [
+              "D Hase",
+              "T Hayashi",
+              "Y Ohsawa"
+            ],
+            "pub_year": "2021",
+            "venue": "Procedia Computer Science",
+            "abstract": "Searching and buying items from online shops has become common these days. Although recommender systems have supported consumers to find products online, it is challenging"
+          },
+          "filled": false,
+          "gsrank": 28,
+          "pub_url": "https://www.sciencedirect.com/science/article/pii/S187705092101721X",
+          "author_id": [
+            "",
+            "fpofVMYAAAAJ",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:0HiNjtQWGt0J:scholar.google.com/&output=cite&scirp=27&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=0HiNjtQWGt0J&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:0HiNjtQWGt0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://www.sciencedirect.com/science/article/pii/S187705092101721X/pdf?md5=efe070b8307cb8ec6b8e30a8bf405a8a&pid=1-s2.0-S187705092101721X-main.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning",
+            "author": [
+              "W Guan",
+              "F Jiao",
+              "X Song",
+              "H Wen",
+              "CH Yeh"
+            ],
+            "pub_year": "2022",
+            "venue": "Proceedings of the 45th \u2026",
+            "abstract": "Fashion Compatibility Modeling (FCM) is a new yet challenging task, which aims to automatically access the matching degree among a set of complementary items"
+          },
+          "filled": false,
+          "gsrank": 29,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3477495.3532038",
+          "author_id": [
+            "",
+            "_u8lwyIAAAAJ",
+            "",
+            "_fnIwU8AAAAJ",
+            "ExgNJZQAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:KD9kk4CMrN8J:scholar.google.com/&output=cite&scirp=28&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=KD9kk4CMrN8J&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "How Good Is Aesthetic Ability of a Fashion Model?",
+            "author": [
+              "X Zou",
+              "K Pang",
+              "W Zhang"
+            ],
+            "pub_year": "2022",
+            "venue": "Proceedings of the IEEE \u2026",
+            "abstract": "We introduce A100 (Aesthetic 100) to assess the aesthetic ability of the fashion compatibility models. To date, it is the first work to address the AI model's aesthetic ability"
+          },
+          "filled": false,
+          "gsrank": 30,
+          "pub_url": "https://openaccess.thecvf.com/content/CVPR2022/html/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.html",
+          "author_id": [
+            "UhnQA3UAAAAJ",
+            "",
+            "vC03Tp8AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:uzFdlt0kUpEJ:scholar.google.com/&output=cite&scirp=29&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=uzFdlt0kUpEJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:uzFdlt0kUpEJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Determination of multi-modal dimension metric learning with application to web image retrieval",
+            "author": [
+              "KH Zaboon"
+            ],
+            "pub_year": "2022",
+            "venue": "Iraqi Journal of Intelligent Computing and Informatics \u2026",
+            "abstract": "Many real-world applications, like multimedia retrieval, confront the difficulty of determining the distance between any two items on Multi-modal data. According to most current"
+          },
+          "filled": false,
+          "gsrank": 31,
+          "pub_url": "http://ijici.edu.iq/index.php/1/article/view/7",
+          "author_id": [
+            "b6_hxBAAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:QA7Vnb4o5TIJ:scholar.google.com/&output=cite&scirp=30&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=QA7Vnb4o5TIJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "eprint_url": "http://ijici.edu.iq/index.php/1/article/download/7/9"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Fashion Recommendation System Reflecting Individual's Preferred Style",
+            "author": [
+              "M Iso",
+              "I Shimizu"
+            ],
+            "pub_year": "2021",
+            "venue": "2021 IEEE 10th Global Conference on \u2026",
+            "abstract": "The type of fashion style that people prefer varies from person to person, and the classification of fashion styles often differs from person to person as well. Against this"
+          },
+          "filled": false,
+          "gsrank": 32,
+          "pub_url": "https://ieeexplore.ieee.org/abstract/document/9622080/",
+          "author_id": [
+            "",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:k9dSrhkuymkJ:scholar.google.com/&output=cite&scirp=31&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=k9dSrhkuymkJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:k9dSrhkuymkJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Geometry Sensitive Cross-Modal Reasoning for Composed Query Based Image Retrieval",
+            "author": [
+              "F Zhang",
+              "M Xu",
+              "C Xu"
+            ],
+            "pub_year": "2021",
+            "venue": "IEEE Transactions on Image Processing",
+            "abstract": "Composed Query Based Image Retrieval (CQBIR) aims at retrieving images relevant to a composed query containing a reference image with a requested modification expressed via"
+          },
+          "filled": false,
+          "gsrank": 33,
+          "pub_url": "https://ieeexplore.ieee.org/abstract/document/9667308/",
+          "author_id": [
+            "UZuMRyoAAAAJ",
+            "u-8x34cAAAAJ",
+            "hI9NRDkAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:EaZjuXqS4NIJ:scholar.google.com/&output=cite&scirp=32&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=EaZjuXqS4NIJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:EaZjuXqS4NIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "False Negative Distillation and Contrastive Learning for Personalized Outfit Recommendation",
+            "author": [
+              "S Kim",
+              "J Seol",
+              "H Lim",
+              "S Lee"
+            ],
+            "pub_year": "2021",
+            "venue": "arXiv preprint arXiv:2110.06483",
+            "abstract": "Personalized outfit recommendation has recently been in the spotlight with the rapid growth of the online fashion industry. However, recommending outfits has two significant challenges"
+          },
+          "filled": false,
+          "gsrank": 34,
+          "pub_url": "https://arxiv.org/abs/2110.06483",
+          "author_id": [
+            "Zfj8XkUAAAAJ",
+            "V7niLDoAAAAJ",
+            "",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:c0mCu_wZAHkJ:scholar.google.com/&output=cite&scirp=33&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=c0mCu_wZAHkJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:c0mCu_wZAHkJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2110.06483"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Recommendation of Compatible Outfits Conditioned on Style",
+            "author": [
+              "D Banerjee",
+              "L Dhakad",
+              "H Maheshwari"
+            ],
+            "pub_year": "2022",
+            "venue": "\u2026 on Information Retrieval",
+            "abstract": "Recommendation in the fashion domain has seen a recent surge in research in various areas, for example, shop-the-look, context-aware outfit creation, personalizing outfit creation"
+          },
+          "filled": false,
+          "gsrank": 35,
+          "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-99736-6_3",
+          "author_id": [
+            "GOOXm9gAAAAJ",
+            "",
+            "kb8GNo4AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:hazpwgARisIJ:scholar.google.com/&output=cite&scirp=34&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=hazpwgARisIJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:hazpwgARisIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2203.16161"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Supplemental Material: How Good Is Aesthetic Ability of a Fashion Model?",
+            "author": [
+              "X Zou",
+              "K Pang",
+              "W Zhang",
+              "W Wong"
+            ],
+            "venue": "NA",
+            "pub_year": "NA",
+            "abstract": "Figure 1. Evaluation indicators had been used in the previous fashion compatibility learning papers. Noted that if one paper uses both AUC [20] and FITB accuracy [5], they will be"
+          },
+          "filled": false,
+          "gsrank": 36,
+          "pub_url": "https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zou_How_Good_Is_CVPR_2022_supplemental.pdf",
+          "author_id": [
+            "UhnQA3UAAAAJ",
+            "",
+            "",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:DRAK9tOqUGoJ:scholar.google.com/&output=cite&scirp=35&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26start%3D20%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D14896230262758038264%26scipsc%3D&citilm=1&update_op=library_add&info=DRAK9tOqUGoJ&ei=WQ3PYr7mHZLuygTP-pLADw&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:DRAK9tOqUGoJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zou_How_Good_Is_CVPR_2022_supplemental.pdf"
+        }
       ]
     },
     {
@@ -149,6 +1211,360 @@
           "embargo": "12 months",
           "acknowledgement": " \u2026National Natural Science Foundation of China (61602090) \u2026"
         }
+      ],
+      "citedby_publications": [
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "A review of modern fashion recommender systems",
+            "author": [
+              "Y Deldjoo",
+              "F Nazary",
+              "A Ramisa",
+              "J Mcauley"
+            ],
+            "pub_year": "2022",
+            "venue": "arXiv preprint arXiv \u2026",
+            "abstract": "The textile and apparel industries have grown tremendously over the last years. Customers no longer have to visit many stores, stand in long queues, or try on garments in dressing"
+          },
+          "filled": false,
+          "gsrank": 1,
+          "pub_url": "https://arxiv.org/abs/2202.02757",
+          "author_id": [
+            "-C_x_hUAAAAJ",
+            "vlfSjVEAAAAJ",
+            "sE3j8joAAAAJ",
+            "icbo4M0AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:6fAzHEustR0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=6fAzHEustR0J&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 2,
+          "citedby_url": "/scholar?cites=2140806636480229609&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:6fAzHEustR0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2202.02757"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "An Application to Generate Style Guided Compatible Outfit",
+            "author": [
+              "D Banerjee",
+              "H Maheshwari",
+              "L Dhakad"
+            ],
+            "pub_year": "2022",
+            "venue": "5th Joint International \u2026",
+            "abstract": "Fashion recommendation has witnessed a phenomenal growth of research, particularly in the domains of shop-the-look, context-aware outfit creation, personalizing outfit creation etc"
+          },
+          "filled": false,
+          "gsrank": 2,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3493700.3493737",
+          "author_id": [
+            "GOOXm9gAAAAJ",
+            "kb8GNo4AAAAJ",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:8b3jDDQXNQwJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=8b3jDDQXNQwJ&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:8b3jDDQXNQwJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2205.00663"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "UIGR: Unified Interactive Garment Retrieval",
+            "author": [
+              "X Han",
+              "S He",
+              "L Zhang",
+              "YZ Song"
+            ],
+            "pub_year": "2022",
+            "venue": "Proceedings of the \u2026",
+            "abstract": "Interactive garment retrieval (IGR) aims to retrieve a target garment image based on a reference garment image along with user feedback on what to change on the reference"
+          },
+          "filled": false,
+          "gsrank": 3,
+          "pub_url": "https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Han_UIGR_Unified_Interactive_Garment_Retrieval_CVPRW_2022_paper.html",
+          "author_id": [
+            "sRelAa4AAAAJ",
+            "",
+            "Hl5HymUAAAAJ",
+            "irZFP_AAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:TOMhGUFpyBYJ:scholar.google.com/&output=cite&scirp=2&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=TOMhGUFpyBYJ&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:TOMhGUFpyBYJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Han_UIGR_Unified_Interactive_Garment_Retrieval_CVPRW_2022_paper.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Technologies for AI-Driven Fashion Social Networking Service with E-Commerce",
+            "author": [
+              "J Seol",
+              "S Kim",
+              "S Park",
+              "H Lim",
+              "H Na",
+              "E Park"
+            ],
+            "pub_year": "2022",
+            "venue": "arXiv preprint arXiv \u2026",
+            "abstract": "The rapid growth of the online fashion market brought demands for innovative fashion services and commerce platforms. With the recent success of deep learning, many"
+          },
+          "filled": false,
+          "gsrank": 4,
+          "pub_url": "https://arxiv.org/abs/2203.10996",
+          "author_id": [
+            "V7niLDoAAAAJ",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:JrFoL7E9Z20J:scholar.google.com/&output=cite&scirp=3&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=JrFoL7E9Z20J&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:JrFoL7E9Z20J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2203.10996"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Content-Aware Generative Model for Multi-Item Outfit Recommendation",
+            "author": [
+              "V Volokha",
+              "K Bochenina"
+            ],
+            "pub_year": "2022",
+            "venue": "NA",
+            "abstract": "Recently, deep learning-based recommender systems have received increasing attention of researchers and demonstrate excellent results at solving various tasks in various areas. One"
+          },
+          "filled": false,
+          "gsrank": 5,
+          "pub_url": "https://easychair.org/publications/preprint_download/z1km",
+          "author_id": [
+            "",
+            "5120K5QAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:LW5aNPHxif0J:scholar.google.com/&output=cite&scirp=4&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=LW5aNPHxif0J&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:LW5aNPHxif0J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://easychair.org/publications/preprint_download/z1km"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Outlier Item Detection in Fashion Outfit",
+            "author": [
+              "Z Lu",
+              "Y Hu",
+              "Y Chen",
+              "B Zeng"
+            ],
+            "pub_year": "2022",
+            "venue": "2022 the 6th International Conference on \u2026",
+            "abstract": "In this paper, we introduce the outlier item detection task, which is related to the compatibility prediction. Although, with the ability of measuring the compatibility, we are able to identify"
+          },
+          "filled": false,
+          "gsrank": 6,
+          "pub_url": "https://dl.acm.org/doi/abs/10.1145/3529466.3529472",
+          "author_id": [
+            "WvoIsHkAAAAJ",
+            "",
+            "",
+            "4y0QncgAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:Qq5Pcgq8kpEJ:scholar.google.com/&output=cite&scirp=5&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=Qq5Pcgq8kpEJ&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 1,
+          "citedby_url": "/scholar?cites=10489653235152825922&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+          "url_related_articles": "/scholar?q=related:Qq5Pcgq8kpEJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/3529466.3529472"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Anchoring to Exemplars for Training Mixture-of-Expert Cell Embeddings",
+            "author": [
+              "S Wang",
+              "M Lu",
+              "N Moshkov",
+              "JC Caicedo"
+            ],
+            "pub_year": "2021",
+            "venue": "arXiv preprint arXiv \u2026",
+            "abstract": "Analyzing the morphology of cells in microscopy images can provide insights into the mechanism of compounds or the function of genes. Addressing this task requires methods"
+          },
+          "filled": false,
+          "gsrank": 7,
+          "pub_url": "https://arxiv.org/abs/2112.03208",
+          "author_id": [
+            "",
+            "",
+            "AHlTUiwAAAAJ",
+            "U50zLvkAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:cOy3hYozKTAJ:scholar.google.com/&output=cite&scirp=6&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=cOy3hYozKTAJ&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:cOy3hYozKTAJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2112.03208"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Customer models for artificial intelligence-based decision support in fashion online retail supply chains",
+            "author": [
+              "AM Pereira",
+              "JAB Moura",
+              "EDB Costa",
+              "T Vieira"
+            ],
+            "pub_year": "2022",
+            "venue": "Decision Support \u2026",
+            "abstract": "Fashion is a global, multi-trillion dollar industry devoted to producing and selling clothing, footwear, and accessories to individuals or groups of people. Its sheer numbers, together"
+          },
+          "filled": false,
+          "gsrank": 8,
+          "pub_url": "https://www.sciencedirect.com/science/article/pii/S0167923622000665",
+          "author_id": [
+            "",
+            "",
+            "NX2ik0YAAAAJ",
+            "Qz6kX58AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:PDqNjOcDj0UJ:scholar.google.com/&output=cite&scirp=7&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=PDqNjOcDj0UJ&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:PDqNjOcDj0UJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "How Good Is Aesthetic Ability of a Fashion Model?",
+            "author": [
+              "X Zou",
+              "K Pang",
+              "W Zhang"
+            ],
+            "pub_year": "2022",
+            "venue": "Proceedings of the IEEE \u2026",
+            "abstract": "We introduce A100 (Aesthetic 100) to assess the aesthetic ability of the fashion compatibility models. To date, it is the first work to address the AI model's aesthetic ability"
+          },
+          "filled": false,
+          "gsrank": 9,
+          "pub_url": "https://openaccess.thecvf.com/content/CVPR2022/html/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.html",
+          "author_id": [
+            "UhnQA3UAAAAJ",
+            "",
+            "vC03Tp8AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:uzFdlt0kUpEJ:scholar.google.com/&output=cite&scirp=8&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=uzFdlt0kUpEJ&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:uzFdlt0kUpEJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "False Negative Distillation and Contrastive Learning for Personalized Outfit Recommendation",
+            "author": [
+              "S Kim",
+              "J Seol",
+              "H Lim",
+              "S Lee"
+            ],
+            "pub_year": "2021",
+            "venue": "arXiv preprint arXiv:2110.06483",
+            "abstract": "Personalized outfit recommendation has recently been in the spotlight with the rapid growth of the online fashion industry. However, recommending outfits has two significant challenges"
+          },
+          "filled": false,
+          "gsrank": 10,
+          "pub_url": "https://arxiv.org/abs/2110.06483",
+          "author_id": [
+            "Zfj8XkUAAAAJ",
+            "V7niLDoAAAAJ",
+            "",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:c0mCu_wZAHkJ:scholar.google.com/&output=cite&scirp=9&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=c0mCu_wZAHkJ&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:c0mCu_wZAHkJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2110.06483"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Neural stylist: Towards online styling service",
+            "author": [
+              "D Mo",
+              "X Zou",
+              "WK Wong"
+            ],
+            "pub_year": "2022",
+            "venue": "Expert Systems with Applications",
+            "abstract": "Online stylist service enjoys huge economic potentials due to the trend of transformation of the fashion industry to digitalization. Existing works either predict the fashion compatibility"
+          },
+          "filled": false,
+          "gsrank": 11,
+          "pub_url": "https://www.sciencedirect.com/science/article/pii/S095741742200690X",
+          "author_id": [
+            "",
+            "UhnQA3UAAAAJ",
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:bw2UwCSYm6sJ:scholar.google.com/&output=cite&scirp=10&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=bw2UwCSYm6sJ&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:bw2UwCSYm6sJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5"
+        },
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Recommendation of Compatible Outfits Conditioned on Style",
+            "author": [
+              "D Banerjee",
+              "L Dhakad",
+              "H Maheshwari"
+            ],
+            "pub_year": "2022",
+            "venue": "\u2026 on Information Retrieval",
+            "abstract": "Recommendation in the fashion domain has seen a recent surge in research in various areas, for example, shop-the-look, context-aware outfit creation, personalizing outfit creation"
+          },
+          "filled": false,
+          "gsrank": 12,
+          "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-99736-6_3",
+          "author_id": [
+            "GOOXm9gAAAAJ",
+            "",
+            "kb8GNo4AAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:hazpwgARisIJ:scholar.google.com/&output=cite&scirp=11&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D1358642853815959651,5695808083119733339%26scipsc%3D&citilm=1&update_op=library_add&info=hazpwgARisIJ&ei=Xg3PYtXKLOeUy9YPhcWFgA8&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:hazpwgARisIJ:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=2005&sciodt=0,5",
+          "eprint_url": "https://arxiv.org/pdf/2203.16161"
+        }
       ]
     },
     {
@@ -173,7 +1589,39 @@
       "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Qq5Pcgq8kpEJ:scholar.google.com/",
       "cites_per_year": {
         "2022": 1
-      }
+      },
+      "citedby_publications": [
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Personalized Fashion Recommendation with Discrete Content-based Tensor Factorization",
+            "author": [
+              "Z Lu",
+              "Y Hu",
+              "C Yu",
+              "Y Jiang",
+              "Y Chen"
+            ],
+            "pub_year": "2022",
+            "venue": "IEEE Transactions on \u2026",
+            "abstract": "Fashion outfit recommendation has attracted lots of attention recently. The problem becomes even more interesting and challenging when considering users' personalized fashion"
+          },
+          "filled": false,
+          "gsrank": 1,
+          "pub_url": "https://ieeexplore.ieee.org/abstract/document/9808340/",
+          "author_id": [
+            "WvoIsHkAAAAJ",
+            "",
+            "idrU8wYAAAAJ",
+            "",
+            "MVOCn1AAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:sVrGFSFc1EoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D10489653235152825922%26scipsc%3D&citilm=1&update_op=library_add&info=sVrGFSFc1EoJ&ei=fA3PYuLqEe2O6rQPoLq--As&json=",
+          "num_citations": 0
+        }
+      ]
     },
     {
       "container_type": "Publication",
@@ -200,7 +1648,33 @@
       "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:P5W4qnsgduIJ:scholar.google.com/",
       "cites_per_year": {
         "2022": 1
-      }
+      },
+      "citedby_publications": [
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Scatter Based Novel Imaging Systems",
+            "author": [
+              "S Yang"
+            ],
+            "pub_year": "2022",
+            "venue": "NA",
+            "abstract": "SCATTER BASED NOVEL IMAGING SYSTEMS Page 1 SCATTER BASED NOVEL IMAGING  SYSTEMS by Shu Yang Copyright \u00a9 Shu Yang 2022 A Dissertation Submitted to the Faculty of"
+          },
+          "filled": false,
+          "gsrank": 1,
+          "pub_url": "https://search.proquest.com/openview/e04abdd5c298d202696169acf28f84da/1?pq-origsite=gscholar&cbl=18750&diss=y",
+          "author_id": [
+            ""
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:xI_7vdVoIh8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D40005%26sciodt%3D0,10%26cites%3D16318266015340860735%26scipsc%3D&citilm=1&update_op=library_add&info=xI_7vdVoIh8J&ei=hA3PYp_PMqiUy9YP6_CtyAQ&json=",
+          "num_citations": 0,
+          "url_related_articles": "/scholar?q=related:xI_7vdVoIh8J:scholar.google.com/&scioq=&hl=en&num=20&as_sdt=40005&sciodt=0,10",
+          "eprint_url": "https://repository.arizona.edu/bitstream/handle/10150/664375/azu_etd_19630_sip1_m.pdf?sequence=1"
+        }
+      ]
     },
     {
       "container_type": "Publication",
@@ -235,6 +1709,38 @@
           "effective_date": "2014/5",
           "embargo": "12 months",
           "acknowledgement": " \u2026National Natural Science Foundation of China (61602090) \u2026"
+        }
+      ],
+      "citedby_publications": [
+        {
+          "container_type": "Publication",
+          "source": "PUBLICATION_SEARCH_SNIPPET",
+          "bib": {
+            "title": "Personalized Fashion Recommendation with Discrete Content-based Tensor Factorization",
+            "author": [
+              "Z Lu",
+              "Y Hu",
+              "C Yu",
+              "Y Jiang",
+              "Y Chen"
+            ],
+            "pub_year": "2022",
+            "venue": "IEEE Transactions on \u2026",
+            "abstract": "Fashion outfit recommendation has attracted lots of attention recently. The problem becomes even more interesting and challenging when considering users' personalized fashion"
+          },
+          "filled": false,
+          "gsrank": 1,
+          "pub_url": "https://ieeexplore.ieee.org/abstract/document/9808340/",
+          "author_id": [
+            "WvoIsHkAAAAJ",
+            "",
+            "idrU8wYAAAAJ",
+            "",
+            "MVOCn1AAAAAJ"
+          ],
+          "url_scholarbib": "/scholar?hl=en&num=20&q=info:sVrGFSFc1EoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+          "url_add_sclib": "/citations?hl=en&num=20&xsrf=&continue=/scholar%3Fhl%3Den%26num%3D20%26as_sdt%3D2005%26sciodt%3D0,5%26cites%3D12183595944655239199%26scipsc%3D&citilm=1&update_op=library_add&info=sVrGFSFc1EoJ&ei=iQ3PYo6HCc2Ty9YP4YCQuAs&json=",
+          "num_citations": 0
         }
       ]
     },
