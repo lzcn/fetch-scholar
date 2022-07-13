@@ -97,6 +97,8 @@ pg.ScraperAPI(proxy_api_key)
 # pg.FreeProxies()
 # pg.Tor_Internal(tor_cmd = "tor")
 scholarly.use_proxy(pg)
+citation_count = 0
+total_citations = author["citedby"]
 num_publications = len(author["publications"])
 for article_count, publication in enumerate(author["publications"]):
     if "citedby_publications" not in publication:
@@ -105,6 +107,7 @@ for article_count, publication in enumerate(author["publications"]):
         logging.info(
             "[%d]/[%d] No new citations for paper: %s", article_count + 1, num_publications, publication["bib"]["title"]
         )
+        citation_count += publication["num_citations"]
         continue
     logging.info(
         "Adding %d new citations to paper %s",
@@ -112,29 +115,21 @@ for article_count, publication in enumerate(author["publications"]):
         publication["bib"]["title"],
     )
     citedby_publications = []
-    cite_count = 1
-    num_new_citations = publication["num_citations"] - len(publication["citedby_publications"])
+    article_cite_count = 1
     for citation in scholarly.citedby(publication):
-        # incrementally update citations
-        # TODO: is this key unique?
-        citekey = citation["bib"]["title"].lower() + citation["bib"]["year"]
-        founded = False
-        for publication in author["publications"]:
-            if publication["bib"]["title"].lower() + publication["bib"]["year"] == citekey:
-                founded = True
-                break
-        if not founded:
-            citedby_publications.append(citation)
-            logging.info(
-                "Added citation for [%d]-th/[%d] article: [%d]/[%d] - %s",
-                citation["bib"]["title"],
-                article_count + 1,
-                num_publications,
-                cite_count,
-                num_new_citations,
-            )
-            cite_count += 1
-        if num_new_citations == len(citedby_publications):
-            break
-    publication["citedby_publications"] = citedby_publications + publication["citedby_publications"]
+        # TODO: incrementally update citations
+        citedby_publications.append(citation)
+        logging.info(
+            "Added [%d]/[%d] citation for [%d]/[%d] article: [%d]/[%d] - %s",
+            citation_count + 1,
+            total_citations,
+            article_count + 1,
+            num_publications,
+            article_cite_count,
+            publication["num_citations"],
+            citation["bib"]["title"],
+        )
+        article_cite_count += 1
+        citation_count += 1
+    publication["citedby_publications"] = citedby_publications # + publication["citedby_publications"]
     save_data(filename, author)
