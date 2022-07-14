@@ -131,5 +131,5 @@ for article_count, publication in enumerate(author["publications"]):
         )
         article_cite_count += 1
         citation_count += 1
-    publication["citedby_publications"] = citedby_publications # + publication["citedby_publications"]
+    publication["citedby_publications"] = citedby_publications
     save_data(filename, author)
