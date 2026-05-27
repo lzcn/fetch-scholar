@@ -5,18 +5,28 @@
 1. Install [scholarly](https://scholarly.readthedocs.io/en/stable/index.html)
 
 ```bash
-pip install scholarly
+pip install -r requirements.txt
 ```
 
-2. Get a [ScraperAPI](https://www.scraperapi.com/pricing)
+2. Create `config.yaml`
+
+```yaml
+AUTHOR_ID: <google-scholar-id>
+PROXY_API_KEYS:
+  - <scraper-api-key>
+FILL_ARTICLE: false
+FILL_CITATION: false
+```
+
+`SCRAPER_API_KEY` or `PROXY_API_KEY` can be used instead of `PROXY_API_KEYS` when only one key is needed.
 
 3. Run crawler
 
 ```bash
-export SCRAPER_API_KEY=<your-api-key>
-export AUTHOR_ID=<google-scholar-id>
 python main.py
 ```
+
+Citations are updated incrementally: each new, merged, or filled citation is written back to the author JSON as soon as it is processed.
 
 ### JSON Format
 
@@ -97,5 +107,5 @@ with open('author_id.json', 'r') as f:
 
 ### To-dos
 
-- [ ] Updating citations incrementally
-- [ ] Filling each citation
+- [x] Updating citations incrementally
+- [x] Filling each citation
